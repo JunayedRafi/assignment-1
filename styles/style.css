@@ -7,7 +7,7 @@ body{
 }
 /* Top Sections */
 .hero-and-nav-container{
-    background-image: url(/Assets/Hero-bg.png);
+    background-image: url(Assets/Hero-bg.png);
     height: 698px;
 }
 .center{
@@ -157,6 +157,7 @@ body{
 }
 .review-text-container{
     margin: 24px 0;
+    color: #1E1E1E;
 }
 .reviewer-info{
     display: flex;
