@@ -7,7 +7,7 @@ body{
 }
 /* Top Sections */
 .hero-and-nav-container{
-    background-image: url(Assets/Hero-bg.png);
+    background-image: url(/Assets/Hero-bg.png);
     height: 698px;
 }
 .center{
@@ -180,4 +180,36 @@ body{
     font-weight: 400;
     margin: 2px 0 0 0;
     color: #B3B3B3;
+}
+
+/* Get Started Focus Section */
+
+.focus {
+    background-color: #ffffff;
+    padding: 71px 150px; 
+    text-align: center;
+    border-radius: 14px;
+}
+.focus-title {
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+.focus-description {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    color: #00000080;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.focus .btn-primary {
+    margin-bottom: 20px;
+}
+.focus .image {
+    margin: 0 auto;
+    max-width: 100%; 
+    height: auto;
+    border-radius: 48px;
 }
