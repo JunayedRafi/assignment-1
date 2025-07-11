@@ -86,6 +86,8 @@ body{
 }
 .action-description{
     color: #25243280;
+    font-size: 24px;
+    font-family: "Raleway", sans-serif;
     margin: 23px 0;
 }
 .action-right-column img{
